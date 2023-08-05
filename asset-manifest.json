@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itemlists-app/static/css/main.ba969b5a.css",
+    "main.js": "/itemlists-app/static/js/main.63b39a2c.js",
+    "index.html": "/itemlists-app/index.html",
+    "main.ba969b5a.css.map": "/itemlists-app/static/css/main.ba969b5a.css.map",
+    "main.63b39a2c.js.map": "/itemlists-app/static/js/main.63b39a2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba969b5a.css",
+    "static/js/main.63b39a2c.js"
+  ]
+}
